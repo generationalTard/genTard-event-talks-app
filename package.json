@@ -1,0 +1,23 @@
+{
+  "name": "technical-talks-event",
+  "version": "1.0.0",
+  "description": "A website for a 1-day event filled with technical talks.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "event",
+    "technical talks",
+    "schedule",
+    "nodejs",
+    "html",
+    "javascript",
+    "css"
+  ],
+  "author": "AI Agent",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
